@@ -1,0 +1,9 @@
+Applicant Name: John Smith
+
+Monthly Income: $8000
+
+Credit Score: 760
+
+Loan Amount Requested: $250000
+
+Employment Type: Full-Time
